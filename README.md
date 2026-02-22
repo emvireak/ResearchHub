@@ -230,27 +230,7 @@ When you first open the app, you will see the "Connect Firecrawl" screen. Paste 
 Click the "Disconnect" button in the top-right corner of the dashboard. This removes your API key from the browser and takes you back to the setup screen.
 
 
-
-
-
-## Contributing
-
-Contributions are welcome. If you would like to improve this project:
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix: `git checkout -b my-feature`.
-3. Make your changes.
-4. Test everything locally to make sure it works.
-5. Commit your changes: `git commit -m "Add my feature"`.
-6. Push to your branch: `git push origin my-feature`.
-7. Open a Pull Request on GitHub.
-
-Please keep your code clean, follow the existing code style, and write meaningful commit messages.
-
-
-
 ## License
-
 This project is open source. Built by [odaysec](https://github.com/odaysec).
 
 
